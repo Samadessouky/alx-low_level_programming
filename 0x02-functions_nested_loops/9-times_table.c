@@ -17,10 +17,9 @@
 		for (y = 0; y < 10; y++)
 		{
 			product = x * y;
-			_putchar(',');
-			_putchar(' ');
 			if (product <= 9)
 			{
+				_putchar(',');
 				_putchar(' ');
 			}
 			else
