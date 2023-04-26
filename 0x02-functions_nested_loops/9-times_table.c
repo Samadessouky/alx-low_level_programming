@@ -14,7 +14,6 @@
 
 	for (x = 0; x < 10; x++)
 	{
-		_putchar('0');
 		for (y = 0; y < 10; y++)
 		{
 			product = x * y;
