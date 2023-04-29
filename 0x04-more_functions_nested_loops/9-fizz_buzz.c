@@ -7,7 +7,7 @@
  * prints fizzbuzz if multiple by 3 and 5
  * Return: Always 0 (Success)
  */
-int main(void)
+int main()
 {
 	int x;
 
