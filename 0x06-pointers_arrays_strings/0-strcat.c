@@ -9,8 +9,8 @@
 #include <stdio.h>
 char *_strcat(char *dest, char *src)
 {
-	char* restr = dest;
-	
+	char *restr = dest;
+
 	while (*dest != '\0')
 		dest++;
 	while (*src != '\0')
