@@ -9,10 +9,10 @@
 #include <stdio.h>
 char *_strpbrk(char *s, char *accept)
 {
-	char *acc = accept;
-
 	while (*s)
 	{
+		char *acc = accept;
+
 		while (*acc)
 		{
 			if (*s == *acc)
