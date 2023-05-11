@@ -1,7 +1,7 @@
 /**
  * factorial - returns the factorial of a number
  * @n: the number we will get factorial or
- * Return: n is lower than 0, the function should return -1 to indicate an error
+ * Return: n is lower than 0, the function should return -1
  */
 #include "main.h"
 #include <stdio.h>
